@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MysqlEconomyBridge.iml" filepath="$PROJECT_DIR$/.idea/MysqlEconomyBridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MysqlEcoBridge.iml" filepath="$PROJECT_DIR$/MysqlEcoBridge.iml" />
     </modules>
   </component>
 </project>
